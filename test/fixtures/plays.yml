@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  time: 2014-06-16 12:04:45
+  actors: MyString
+  description: MyText
+  review: MyText
+
+two:
+  name: MyString
+  time: 2014-06-16 12:04:45
+  actors: MyString
+  description: MyText
+  review: MyText
